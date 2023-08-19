@@ -1,4 +1,4 @@
-# Project CoordiConnect 🚀
+# Project ManageMe 🚀
 
 Welcome to Project ManageMe! 🎉
 
